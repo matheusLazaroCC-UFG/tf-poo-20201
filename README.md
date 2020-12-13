@@ -7,7 +7,7 @@ Gabriel de Freitas Mendes<br>
 Geovanny Magalhães Novais<br>
 <br><br>
 
-<strong>Sistema de Gerenciamento de Funcionarios com Java e SQL Server</strong>
+<strong>Sistema de Gerenciamento de Funcionarios com Java e SQL Server</strong><br>
 IDE utilizada: IntelliJ IDEA 2020.2.3 (Ultimate Edition)
 
 Banco de Dados utilizado: SQL Server - SQL Server Management Studio 15.0.18358.0
