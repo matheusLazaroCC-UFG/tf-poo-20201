@@ -8,9 +8,9 @@ Desenvolvedores:<br>
 <br><br>
 
 <strong>Sistema de Gerenciamento de Empresas-Funcionários com Java e SQL Server</strong><br>
-IDE utilizada: IntelliJ IDEA 2020.2.3 (Ultimate Edition)
-Sistema Operacional: Windows 10 PRO / Ubuntu 18.4 (Instalação via terminal)
-Banco de Dados utilizado: SQL Server - SQL Server Management Studio 15.0.18358.0
+IDE utilizada: IntelliJ IDEA 2020.2.3 (Ultimate Edition)<br>
+Sistema Operacional: Windows 10 PRO / Ubuntu 18.4 (Instalação via terminal)<br>
+Banco de Dados utilizado: SQL Server - SQL Server Management Studio 15.0.18358.0<br>
 
 Bibliotecas externas: 
 * mssql-jdbc-8.2.2.jre8 (Conexão com o Banco de Dados)
