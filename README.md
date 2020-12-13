@@ -44,5 +44,5 @@ Tutorial de instação do sistema:
 * Selecione Project Structure
 * Selecione libraries
 * Clique em + e selecione o arquivo "mssql-jdbc-8.2.2.jre8", aplicar e OK
-* Para execução dos testes, é necessário instalar o JUnit. Utilizando a própria IDE, é possível instalá-la, apenas abrindo a classe e clicando na sua importação.
+* Para execução dos testes, é necessário instalar o JUnit. Utilizando a própria IDE, é possível instalá-la, apenas abrindo a classe e clicando em sua importação.
 
