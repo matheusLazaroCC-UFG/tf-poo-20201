@@ -27,3 +27,9 @@ Tutorial de instação do sistema:
 * Para criar as tabelas, utilize o script SQL, dentro da pasta docs, deste projeto.
 <hr>
 * Para rodas o sistema, é necessário habilitar as portas TCP-IP.
+* Para isso, abra "SQL Server 2019 Configuration Manager", instalado junto com o MSSMS.
+* Expanda "Configuração de Rede do SQL Server", e clique em "Protocolos para MSSQLSERVER.
+* Habilite TCP/IP
+* Abra TCP/IP e clique em "Endereços IP"
+* Torne todas as portas IP ativas, e digite a porta 1433 em todas as portas TCP.
+* Clique em Aplicar e OK.
