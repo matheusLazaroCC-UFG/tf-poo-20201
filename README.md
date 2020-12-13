@@ -11,22 +11,20 @@ Bibliotecas externas:
 
 Tutorial de instação do sistema:
 
-1 - Criação e configuração do Banco de Dados
+1 - Download do SQL Server
 * Faça o download do SQL Server + SQL Server Management Studio (MSSMS), para configuração do banco de dados.
+2 - Configurações do SQL Server
 * No MSSMS, entre com suas credenciais do Windows
 * clique com o botão direito no servidor
 * Propriedades
 * Nas Propriedades do Servidor, clique em Segurança.
 * Em Autenticação do servidor, selecione "Modo de Autenticação do SQL Server e do Windows" e em OK.
-<br>
 * Expanda o servidor, expanda "Segurança", expanda "Logons", e selecione "sa"
 * Em "Geral", mude a senha para admin, conforme estabelecido neste projeto.
 * Clique me Status, na lista esquerda das propriedades do Logon - sa
 * Torne o Logon Habilitado, e clique em OK.
-<br>
 * Para criar as tabelas, utilize o script SQL, dentro da pasta docs, deste projeto.
-<br>
-* Para rodas o sistema, é necessário habilitar as portas TCP-IP.
+* Para rodar o sistema, é necessário habilitar as portas TCP-IP.
 * Para isso, abra "SQL Server 2019 Configuration Manager", instalado junto com o MSSMS.
 * Expanda "Configuração de Rede do SQL Server", e clique em "Protocolos para MSSQLSERVER.
 * Habilite TCP/IP
