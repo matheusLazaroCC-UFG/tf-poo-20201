@@ -31,3 +31,4 @@ Tutorial de instação do sistema:
 * Abra TCP/IP e clique em "Endereços IP"
 * Torne todas as portas IP ativas, e digite a porta 1433 em todas as portas TCP.
 * Clique em Aplicar e OK.
+* Reinicie o Servidor: "SQL Server Configuration Manager -> Serviços do SQL Server -> SQL Server (MSSQLSERVER)
