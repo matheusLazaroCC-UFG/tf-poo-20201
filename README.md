@@ -1,11 +1,11 @@
 # tf-poo-20201
-Instituto de Informática - Universidade Federal de Goiás
-Desenvolvedores:
-Matheus Lázaro Honório da Silva
-Vinicius Teles de Oliveira
-Gabriel de Freitas Mendes
-Geovanny Magalhães Novais
-
+Instituto de Informática - Universidade Federal de Goiás<br>
+Desenvolvedores:<br>
+Matheus Lázaro Honório da Silva<br>
+Vinicius Teles de Oliveira<br>
+Gabriel de Freitas Mendes<br>
+Geovanny Magalhães Novais<br>
+<br><br>
 
 IDE utilizada: IntelliJ IDEA 2020.2.3 (Ultimate Edition)
 
