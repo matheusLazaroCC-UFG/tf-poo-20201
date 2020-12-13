@@ -40,5 +40,9 @@ Tutorial de instação do sistema:
 * Clique em Aplicar e OK.
 * Reinicie o Servidor: "SQL Server Configuration Manager -> Serviços do SQL Server -> SQL Server (MSSQLSERVER)<br><br>
 3 - Instalação das Bibliotecas do código, usando a IDE IntelliJ IDEA
-* 
+* Selecione File
+* Selecione Project Structure
+* Selecione libraries
+* Clique em + e selecione o arquivo "mssql-jdbc-8.2.2.jre8", aplicar e OK
+* Para execução dos testes, é necessário instalar o JUnit. Utilizando a própria IDE, é possível instalá-la, apenas abrindo a classe e clicando na sua importação.
 
