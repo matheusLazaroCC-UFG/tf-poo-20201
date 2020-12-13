@@ -13,7 +13,7 @@ public class TesteValidarFuncionario {
         String sobrenome = "bbbb";
         String data = "1/2/75";
         String salario = "1000";
-        String email = "eoqmaluco@gmail.com";
+        String email = "teste@gmail.com";
 
         ValidarFuncionario aux = new ValidarFuncionario();
 
