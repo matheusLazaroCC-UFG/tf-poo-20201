@@ -12,7 +12,7 @@ Bibliotecas externas:
 Tutorial de instação do sistema:
 
 1 - Download do SQL Server
-* Faça o download do SQL Server + SQL Server Management Studio (MSSMS), para configuração do banco de dados.<br>
+* Faça o download do SQL Server + SQL Server Management Studio (MSSMS), para configuração do banco de dados.<br><br>
 2 - Configurações do SQL Server
 * No MSSMS, entre com suas credenciais do Windows
 * clique com o botão direito no servidor
