@@ -4,7 +4,7 @@ Desenvolvedores:<br>
 <strong>Matheus Lázaro Honório da Silva</strong><br>
 <strong>Vinicius Teles de Oliveira</strong><br>
 <strong>Gabriel de Freitas Mendes</strong><br>
-<strong>Geovanny Magalhães Novais</strong><br>
+<strong>Geovanny Magalhães Novais</strong>
 <br><br>
 
 <strong>Sistema de Gerenciamento de Empresas-Funcionários com Java e SQL Server</strong><br>
