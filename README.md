@@ -19,3 +19,11 @@ Tutorial de instação do sistema:
 * Nas Propriedades do Servidor, clique em Segurança.
 * Em Autenticação do servidor, selecione "Modo de Autenticação do SQL Server e do Windows" e em OK.
 
+* Expanda o servidor, expanda "Segurança", expanda "Logons", e selecione "sa"
+* Em "Geral", mude a senha para admin, conforme estabelecido neste projeto.
+* Clique me Status, na lista esquerda das propriedades do Logon - sa
+* Torne o Logon Habilitado, e clique em OK.
+
+* Para criar as tabelas, utilize o script SQL, dentro da pasta docs, deste projeto.
+
+* Para rodas o sistema, é necessário habilitar as portas TCP-IP.
