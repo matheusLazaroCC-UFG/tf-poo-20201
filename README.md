@@ -1,10 +1,10 @@
 # tf-poo-20201
 Instituto de Informática - Universidade Federal de Goiás<br>
 Desenvolvedores:<br>
-Matheus Lázaro Honório da Silva<br>
-Vinicius Teles de Oliveira<br>
-Gabriel de Freitas Mendes<br>
-Geovanny Magalhães Novais<br>
+<strong>Matheus Lázaro Honório da Silva</strong><br>
+<strong>Vinicius Teles de Oliveira</strong><br>
+<strong>Gabriel de Freitas Mendes</strong><br>
+<strong>Geovanny Magalhães Novais</strong><br>
 <br><br>
 
 <strong>Sistema de Gerenciamento de Funcionarios com Java e SQL Server</strong><br>
