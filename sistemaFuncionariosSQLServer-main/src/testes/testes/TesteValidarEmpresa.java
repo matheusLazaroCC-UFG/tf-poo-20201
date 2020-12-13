@@ -12,7 +12,7 @@ public class TesteValidarEmpresa {
         String nome = "aaaaa";
         String cnpj = "12345678901234";
         String cep = "12345-678";
-        String email = "eoqmaluco@gmail.com";
+        String email = "teste@gmail.com";
 
         ValidarEmpresa e = new ValidarEmpresa();
 
