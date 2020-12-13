@@ -5,10 +5,17 @@ IDE utilizada: IntelliJ IDEA 2020.2.3 (Ultimate Edition)
 
 Banco de Dados utilizado: SQL Server - SQL Server Management Studio 15.0.18358.0
 
-Bibliotecas externas: mssql-jdbc-8.2.2.jre8 (Conexão com o Banco de Dados)
+Bibliotecas externas: 
+* mssql-jdbc-8.2.2.jre8 (Conexão com o Banco de Dados)
+* JUnit
 
 Tutorial de instação do sistema:
 
 1 - Criação e configuração do Banco de Dados
-* Faça o download do SQL Server + SQL Server Management Studio, para configuração do banco de dados.
+* Faça o download do SQL Server + SQL Server Management Studio (MSSMS), para configuração do banco de dados.
+* No MSSMS, entre com suas credenciais do Windows
+* clique com o botão direito no servidor
+* Propriedades
+* Nas Propriedades do Servidor, clique em Segurança.
+* Em Autenticação do servidor, selecione "Modo de Autenticação do SQL Server e do Windows" e em OK.
 
